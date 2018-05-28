@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1082572601782",
+    "firebase_url": "https://proyecto-68896.firebaseio.com",
+    "project_id": "proyecto-68896",
+    "storage_bucket": "proyecto-68896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082572601782:android:5e4ffe63273ec32e",
+        "android_client_info": {
+          "package_name": "com.example.tatiana.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082572601782-r65v0b8p36chhfbft2s99mu85ppu4n3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tatiana.app",
+            "certificate_hash": "907e65df8116b2352486f713ae49e04209dc1ae5"
+          }
+        },
+        {
+          "client_id": "1082572601782-5dthv67ie50l70r5amo2epkdrdkjp565.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1082572601782-5dthv67ie50l70r5amo2epkdrdkjp565.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJ_UhKp-YSPnFDZOGbSe_lXK3ZbU7XGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082572601782-5dthv67ie50l70r5amo2epkdrdkjp565.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
